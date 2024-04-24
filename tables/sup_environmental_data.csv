@@ -1,0 +1,925 @@
+Sampiling_Years,Sampling_Months,Sampling_Seasons,Sampling_Sites,EnvironmentalFactors_ShortNames,EnvironmentalFactors_FullNames,EnvironmentalFactors_Values,EnvironmentalFactors_Unites
+2014,April,Spring,WH,aet,Actual Evapotranspiration(monthly total),38.7,mm
+2014,April,Spring,EY,aet,Actual Evapotranspiration(monthly total),37.9,mm
+2014,April,Spring,K69,aet,Actual Evapotranspiration(monthly total),38.2,mm
+2014,April,Spring,ERG,aet,Actual Evapotranspiration(monthly total),38.8,mm
+2014,April,Spring,PFN,aet,Actual Evapotranspiration(monthly total),38.2,mm
+2014,April,Spring,JUG,aet,Actual Evapotranspiration(monthly total),38.1,mm
+2014,April,Spring,WH,def,Climate Water Deficit(monthly total),14.7,mm
+2014,April,Spring,K69,def,Climate Water Deficit(monthly total),14.5,mm
+2014,April,Spring,JUG,def,Climate Water Deficit(monthly total),14.7,mm
+2014,April,Spring,PFN,def,Climate Water Deficit(monthly total),14.5,mm
+2014,April,Spring,ERG,def,Climate Water Deficit(monthly total),13.6,mm
+2014,April,Spring,EY,def,Climate Water Deficit(monthly total),13.2,mm
+2014,April,Spring,EY,PDSI,Palmer Drought Severity Index(at end of month),-1.87,unitless
+2014,April,Spring,WH,PDSI,Palmer Drought Severity Index(at end of month),-1.9,unitless
+2014,April,Spring,ERG,PDSI,Palmer Drought Severity Index(at end of month),-1.9,unitless
+2014,April,Spring,PFN,PDSI,Palmer Drought Severity Index(at end of month),-2.01,unitless
+2014,April,Spring,K69,PDSI,Palmer Drought Severity Index(at end of month),-2.01,unitless
+2014,April,Spring,JUG,PDSI,Palmer Drought Severity Index(at end of month),-2,unitless
+2014,April,Spring,JUG,pet,Potential Evapotranspiration(monthly total),52.8,mm
+2014,April,Spring,ERG,pet,Potential Evapotranspiration(monthly total),52.4,mm
+2014,April,Spring,WH,pet,Potential Evapotranspiration(monthly total),53.4,mm
+2014,April,Spring,EY,pet,Potential Evapotranspiration(monthly total),51.1,mm
+2014,April,Spring,K69,pet,Potential Evapotranspiration(monthly total),52.7,mm
+2014,April,Spring,PFN,pet,Potential Evapotranspiration(monthly total),52.7,mm
+2014,April,Spring,K69,ppt,Precipitation(monthly total),14,mm
+2014,April,Spring,ERG,ppt,Precipitation(monthly total),16,mm
+2014,April,Spring,EY,ppt,Precipitation(monthly total),15.8,mm
+2014,April,Spring,WH,ppt,Precipitation(monthly total),14,mm
+2014,April,Spring,PFN,ppt,Precipitation(monthly total),14,mm
+2014,April,Spring,JUG,ppt,Precipitation(monthly total),13.5,mm
+2014,April,Spring,JUG,q,Runoff(monthly total),0.7,mm
+2014,April,Spring,ERG,q,Runoff(monthly total),0.8,mm
+2014,April,Spring,EY,q,Runoff(monthly total),0.8,mm
+2014,April,Spring,WH,q,Runoff(monthly total),0.7,mm
+2014,April,Spring,K69,q,Runoff(monthly total),0.7,mm
+2014,April,Spring,PFN,q,Runoff(monthly total),0.7,mm
+2014,April,Spring,ERG,soil,Soil Moisture(total column - at end of month),36.3,mm
+2014,April,Spring,JUG,soil,Soil Moisture(total column - at end of month),36,mm
+2014,April,Spring,WH,soil,Soil Moisture(total column - at end of month),36.1,mm
+2014,April,Spring,PFN,soil,Soil Moisture(total column - at end of month),36.9,mm
+2014,April,Spring,K69,soil,Soil Moisture(total column - at end of month),36.9,mm
+2014,April,Spring,EY,soil,Soil Moisture(total column - at end of month),35.7,mm
+2014,April,Spring,JUG,srad,Downward Surface Shortwave Radiation,145.9004578,W/m2
+2014,April,Spring,WH,srad,Downward Surface Shortwave Radiation,146.4033922,W/m2
+2014,April,Spring,ERG,srad,Downward Surface Shortwave Radiation,147.5988921,W/m2
+2014,April,Spring,K69,srad,Downward Surface Shortwave Radiation,146.6012681,W/m2
+2014,April,Spring,PFN,srad,Downward Surface Shortwave Radiation,146.6012681,W/m2
+2014,April,Spring,EY,srad,Downward Surface Shortwave Radiation,147.9039507,W/m2
+2014,April,Spring,EY,swe,Snow Water Equivalent(at end of month),0,mm
+2014,April,Spring,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2014,April,Spring,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2014,April,Spring,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2014,April,Spring,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2014,April,Spring,ERG,swe,Snow Water Equivalent(at end of month),0,mm
+2014,April,Spring,ERG,tmax,Max Temperature(average for month),12.99,C
+2014,April,Spring,JUG,tmax,Max Temperature(average for month),13.47,C
+2014,April,Spring,EY,tmax,Max Temperature(average for month),12.76,C
+2014,April,Spring,WH,tmax,Max Temperature(average for month),13.74,C
+2014,April,Spring,K69,tmax,Max Temperature(average for month),13.22,C
+2014,April,Spring,PFN,tmax,Max Temperature(average for month),13.22,C
+2014,April,Spring,JUG,tmin,Min Temperature(average for month),2.47,C
+2014,April,Spring,EY,tmin,Min Temperature(average for month),1.64,C
+2014,April,Spring,WH,tmin,Min Temperature(average for month),2.58,C
+2014,April,Spring,K69,tmin,Min Temperature(average for month),2.22,C
+2014,April,Spring,PFN,tmin,Min Temperature(average for month),2.22,C
+2014,April,Spring,ERG,tmin,Min Temperature(average for month),1.76,C
+2014,April,Spring,JUG,vap,Vapor Pressure(average for month),0.697,kPa
+2014,April,Spring,PFN,vap,Vapor Pressure(average for month),0.691,kPa
+2014,April,Spring,ERG,vap,Vapor Pressure(average for month),0.676,kPa
+2014,April,Spring,K69,vap,Vapor Pressure(average for month),0.691,kPa
+2014,April,Spring,WH,vap,Vapor Pressure(average for month),0.696,kPa
+2014,April,Spring,EY,vap,Vapor Pressure(average for month),0.684,kPa
+2014,April,Spring,PFN,vpd,Vapor Pressure Deficit(average for month),0.43,kpa
+2014,April,Spring,ERG,vpd,Vapor Pressure Deficit(average for month),0.42,kpa
+2014,April,Spring,WH,vpd,Vapor Pressure Deficit(average for month),0.46,kpa
+2014,April,Spring,JUG,vpd,Vapor Pressure Deficit(average for month),0.44,kpa
+2014,April,Spring,K69,vpd,Vapor Pressure Deficit(average for month),0.43,kpa
+2014,April,Spring,EY,vpd,Vapor Pressure Deficit(average for month),0.4,kpa
+2014,April,Spring,WH,ws,Wind Speed(average for month),2.01,m/s
+2014,April,Spring,EY,ws,Wind Speed(average for month),2.12,m/s
+2014,April,Spring,K69,ws,Wind Speed(average for month),2.13,m/s
+2014,April,Spring,PFN,ws,Wind Speed(average for month),2.13,m/s
+2014,April,Spring,JUG,ws,Wind Speed(average for month),2.08,m/s
+2014,April,Spring,ERG,ws,Wind Speed(average for month),2.15,m/s
+2014,December,Fall,ERG,aet,Actual Evapotranspiration(monthly total),16.9,mm
+2014,December,Fall,PFN,aet,Actual Evapotranspiration(monthly total),17.5,mm
+2014,December,Fall,EY,aet,Actual Evapotranspiration(monthly total),17,mm
+2014,December,Fall,JUG,aet,Actual Evapotranspiration(monthly total),17.3,mm
+2014,December,Fall,K69,aet,Actual Evapotranspiration(monthly total),17.5,mm
+2014,December,Fall,WH,aet,Actual Evapotranspiration(monthly total),16.8,mm
+2014,December,Fall,WH,def,Climate Water Deficit(monthly total),0,mm
+2014,December,Fall,JUG,def,Climate Water Deficit(monthly total),0,mm
+2014,December,Fall,EY,def,Climate Water Deficit(monthly total),0,mm
+2014,December,Fall,K69,def,Climate Water Deficit(monthly total),0,mm
+2014,December,Fall,ERG,def,Climate Water Deficit(monthly total),0,mm
+2014,December,Fall,PFN,def,Climate Water Deficit(monthly total),0,mm
+2014,December,Fall,JUG,PDSI,Palmer Drought Severity Index(at end of month),2.71,unitless
+2014,December,Fall,K69,PDSI,Palmer Drought Severity Index(at end of month),2.62,unitless
+2014,December,Fall,PFN,PDSI,Palmer Drought Severity Index(at end of month),2.62,unitless
+2014,December,Fall,EY,PDSI,Palmer Drought Severity Index(at end of month),2.44,unitless
+2014,December,Fall,WH,PDSI,Palmer Drought Severity Index(at end of month),2.71,unitless
+2014,December,Fall,ERG,PDSI,Palmer Drought Severity Index(at end of month),2.48,unitless
+2014,December,Fall,ERG,pet,Potential Evapotranspiration(monthly total),16.9,mm
+2014,December,Fall,EY,pet,Potential Evapotranspiration(monthly total),17,mm
+2014,December,Fall,WH,pet,Potential Evapotranspiration(monthly total),16.8,mm
+2014,December,Fall,PFN,pet,Potential Evapotranspiration(monthly total),17.5,mm
+2014,December,Fall,JUG,pet,Potential Evapotranspiration(monthly total),17.3,mm
+2014,December,Fall,K69,pet,Potential Evapotranspiration(monthly total),17.5,mm
+2014,December,Fall,EY,ppt,Precipitation(monthly total),69.7,mm
+2014,December,Fall,WH,ppt,Precipitation(monthly total),59,mm
+2014,December,Fall,JUG,ppt,Precipitation(monthly total),52.8,mm
+2014,December,Fall,PFN,ppt,Precipitation(monthly total),55.2,mm
+2014,December,Fall,K69,ppt,Precipitation(monthly total),55.2,mm
+2014,December,Fall,ERG,ppt,Precipitation(monthly total),69.3,mm
+2014,December,Fall,EY,q,Runoff(monthly total),52.7,mm
+2014,December,Fall,ERG,q,Runoff(monthly total),52.4,mm
+2014,December,Fall,K69,q,Runoff(monthly total),37.7,mm
+2014,December,Fall,PFN,q,Runoff(monthly total),37.7,mm
+2014,December,Fall,WH,q,Runoff(monthly total),42.2,mm
+2014,December,Fall,JUG,q,Runoff(monthly total),35.5,mm
+2014,December,Fall,PFN,soil,Soil Moisture(total column - at end of month),61.8,mm
+2014,December,Fall,K69,soil,Soil Moisture(total column - at end of month),61.8,mm
+2014,December,Fall,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2014,December,Fall,JUG,soil,Soil Moisture(total column - at end of month),61.2,mm
+2014,December,Fall,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2014,December,Fall,WH,soil,Soil Moisture(total column - at end of month),61.4,mm
+2014,December,Fall,WH,srad,Downward Surface Shortwave Radiation,52.99774767,W/m2
+2014,December,Fall,PFN,srad,Downward Surface Shortwave Radiation,53.40174419,W/m2
+2014,December,Fall,JUG,srad,Downward Surface Shortwave Radiation,53.20386834,W/m2
+2014,December,Fall,K69,srad,Downward Surface Shortwave Radiation,53.40174419,W/m2
+2014,December,Fall,EY,srad,Downward Surface Shortwave Radiation,53.79749588,W/m2
+2014,December,Fall,ERG,srad,Downward Surface Shortwave Radiation,53.59962003,W/m2
+2014,December,Fall,EY,swe,Snow Water Equivalent(at end of month),0,mm
+2014,December,Fall,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2014,December,Fall,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2014,December,Fall,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2014,December,Fall,ERG,swe,Snow Water Equivalent(at end of month),0,mm
+2014,December,Fall,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2014,December,Fall,JUG,tmax,Max Temperature(average for month),10.49,C
+2014,December,Fall,K69,tmax,Max Temperature(average for month),10.38,C
+2014,December,Fall,EY,tmax,Max Temperature(average for month),9.95,C
+2014,December,Fall,ERG,tmax,Max Temperature(average for month),9.83,C
+2014,December,Fall,WH,tmax,Max Temperature(average for month),10.35,C
+2014,December,Fall,PFN,tmax,Max Temperature(average for month),10.38,C
+2014,December,Fall,ERG,tmin,Min Temperature(average for month),3.45,C
+2014,December,Fall,K69,tmin,Min Temperature(average for month),3.95,C
+2014,December,Fall,EY,tmin,Min Temperature(average for month),3.58,C
+2014,December,Fall,JUG,tmin,Min Temperature(average for month),4.15,C
+2014,December,Fall,WH,tmin,Min Temperature(average for month),4.05,C
+2014,December,Fall,PFN,tmin,Min Temperature(average for month),3.95,C
+2014,December,Fall,JUG,vap,Vapor Pressure(average for month),0.824,kPa
+2014,December,Fall,PFN,vap,Vapor Pressure(average for month),0.815,kPa
+2014,December,Fall,K69,vap,Vapor Pressure(average for month),0.815,kPa
+2014,December,Fall,WH,vap,Vapor Pressure(average for month),0.831,kPa
+2014,December,Fall,EY,vap,Vapor Pressure(average for month),0.821,kPa
+2014,December,Fall,ERG,vap,Vapor Pressure(average for month),0.815,kPa
+2014,December,Fall,JUG,vpd,Vapor Pressure Deficit(average for month),0.23,kpa
+2014,December,Fall,WH,vpd,Vapor Pressure Deficit(average for month),0.21,kpa
+2014,December,Fall,EY,vpd,Vapor Pressure Deficit(average for month),0.19,kpa
+2014,December,Fall,ERG,vpd,Vapor Pressure Deficit(average for month),0.19,kpa
+2014,December,Fall,K69,vpd,Vapor Pressure Deficit(average for month),0.22,kpa
+2014,December,Fall,PFN,vpd,Vapor Pressure Deficit(average for month),0.22,kpa
+2014,December,Fall,WH,ws,Wind Speed(average for month),1.14,m/s
+2014,December,Fall,JUG,ws,Wind Speed(average for month),1.17,m/s
+2014,December,Fall,K69,ws,Wind Speed(average for month),1.24,m/s
+2014,December,Fall,PFN,ws,Wind Speed(average for month),1.24,m/s
+2014,December,Fall,EY,ws,Wind Speed(average for month),1.32,m/s
+2014,December,Fall,ERG,ws,Wind Speed(average for month),1.31,m/s
+2015,December,Fall,K69,aet,Actual Evapotranspiration(monthly total),21.4,mm
+2015,December,Fall,JUG,aet,Actual Evapotranspiration(monthly total),21.2,mm
+2015,December,Fall,WH,aet,Actual Evapotranspiration(monthly total),20,mm
+2015,December,Fall,PFN,aet,Actual Evapotranspiration(monthly total),21.4,mm
+2015,December,Fall,EY,aet,Actual Evapotranspiration(monthly total),18.9,mm
+2015,December,Fall,ERG,aet,Actual Evapotranspiration(monthly total),18.9,mm
+2015,December,Fall,JUG,def,Climate Water Deficit(monthly total),0,mm
+2015,December,Fall,PFN,def,Climate Water Deficit(monthly total),0,mm
+2015,December,Fall,K69,def,Climate Water Deficit(monthly total),0,mm
+2015,December,Fall,ERG,def,Climate Water Deficit(monthly total),0,mm
+2015,December,Fall,WH,def,Climate Water Deficit(monthly total),0,mm
+2015,December,Fall,EY,def,Climate Water Deficit(monthly total),0,mm
+2015,December,Fall,EY,PDSI,Palmer Drought Severity Index(at end of month),-4.71,unitless
+2015,December,Fall,K69,PDSI,Palmer Drought Severity Index(at end of month),-5.11,unitless
+2015,December,Fall,ERG,PDSI,Palmer Drought Severity Index(at end of month),-4.77,unitless
+2015,December,Fall,WH,PDSI,Palmer Drought Severity Index(at end of month),-4.92,unitless
+2015,December,Fall,JUG,PDSI,Palmer Drought Severity Index(at end of month),-5.09,unitless
+2015,December,Fall,PFN,PDSI,Palmer Drought Severity Index(at end of month),-5.11,unitless
+2015,December,Fall,EY,pet,Potential Evapotranspiration(monthly total),18.9,mm
+2015,December,Fall,ERG,pet,Potential Evapotranspiration(monthly total),18.9,mm
+2015,December,Fall,JUG,pet,Potential Evapotranspiration(monthly total),21.2,mm
+2015,December,Fall,WH,pet,Potential Evapotranspiration(monthly total),20,mm
+2015,December,Fall,K69,pet,Potential Evapotranspiration(monthly total),21.4,mm
+2015,December,Fall,PFN,pet,Potential Evapotranspiration(monthly total),21.4,mm
+2015,December,Fall,WH,ppt,Precipitation(monthly total),72.2,mm
+2015,December,Fall,EY,ppt,Precipitation(monthly total),79.9,mm
+2015,December,Fall,K69,ppt,Precipitation(monthly total),72.6,mm
+2015,December,Fall,PFN,ppt,Precipitation(monthly total),72.6,mm
+2015,December,Fall,JUG,ppt,Precipitation(monthly total),70.6,mm
+2015,December,Fall,ERG,ppt,Precipitation(monthly total),80.8,mm
+2015,December,Fall,JUG,q,Runoff(monthly total),3.5,mm
+2015,December,Fall,EY,q,Runoff(monthly total),11.3,mm
+2015,December,Fall,K69,q,Runoff(monthly total),3.6,mm
+2015,December,Fall,ERG,q,Runoff(monthly total),11.1,mm
+2015,December,Fall,PFN,q,Runoff(monthly total),3.6,mm
+2015,December,Fall,WH,q,Runoff(monthly total),3.6,mm
+2015,December,Fall,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2015,December,Fall,WH,soil,Soil Moisture(total column - at end of month),57.3,mm
+2015,December,Fall,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2015,December,Fall,JUG,soil,Soil Moisture(total column - at end of month),54.4,mm
+2015,December,Fall,K69,soil,Soil Moisture(total column - at end of month),56.4,mm
+2015,December,Fall,PFN,soil,Soil Moisture(total column - at end of month),56.4,mm
+2015,December,Fall,PFN,srad,Downward Surface Shortwave Radiation,51.40341665,W/m2
+2015,December,Fall,WH,srad,Downward Surface Shortwave Radiation,51.40341665,W/m2
+2015,December,Fall,K69,srad,Downward Surface Shortwave Radiation,51.40341665,W/m2
+2015,December,Fall,JUG,srad,Downward Surface Shortwave Radiation,51.10185863,W/m2
+2015,December,Fall,EY,srad,Downward Surface Shortwave Radiation,52.90305652,W/m2
+2015,December,Fall,ERG,srad,Downward Surface Shortwave Radiation,52.39774309,W/m2
+2015,December,Fall,EY,swe,Snow Water Equivalent(at end of month),0,mm
+2015,December,Fall,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2015,December,Fall,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2015,December,Fall,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2015,December,Fall,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2015,December,Fall,ERG,swe,Snow Water Equivalent(at end of month),0,mm
+2015,December,Fall,K69,tmax,Max Temperature(average for month),11.67,C
+2015,December,Fall,ERG,tmax,Max Temperature(average for month),11.2,C
+2015,December,Fall,WH,tmax,Max Temperature(average for month),11.68,C
+2015,December,Fall,EY,tmax,Max Temperature(average for month),11.32,C
+2015,December,Fall,JUG,tmax,Max Temperature(average for month),11.76,C
+2015,December,Fall,PFN,tmax,Max Temperature(average for month),11.67,C
+2015,December,Fall,PFN,tmin,Min Temperature(average for month),3.44,C
+2015,December,Fall,EY,tmin,Min Temperature(average for month),3.14,C
+2015,December,Fall,JUG,tmin,Min Temperature(average for month),3.62,C
+2015,December,Fall,WH,tmin,Min Temperature(average for month),3.58,C
+2015,December,Fall,K69,tmin,Min Temperature(average for month),3.44,C
+2015,December,Fall,ERG,tmin,Min Temperature(average for month),3.02,C
+2015,December,Fall,K69,vap,Vapor Pressure(average for month),0.884,kPa
+2015,December,Fall,JUG,vap,Vapor Pressure(average for month),0.893,kPa
+2015,December,Fall,PFN,vap,Vapor Pressure(average for month),0.884,kPa
+2015,December,Fall,WH,vap,Vapor Pressure(average for month),0.902,kPa
+2015,December,Fall,EY,vap,Vapor Pressure(average for month),0.891,kPa
+2015,December,Fall,ERG,vap,Vapor Pressure(average for month),0.885,kPa
+2015,December,Fall,EY,vpd,Vapor Pressure Deficit(average for month),0.17,kpa
+2015,December,Fall,WH,vpd,Vapor Pressure Deficit(average for month),0.18,kpa
+2015,December,Fall,JUG,vpd,Vapor Pressure Deficit(average for month),0.2,kpa
+2015,December,Fall,ERG,vpd,Vapor Pressure Deficit(average for month),0.16,kpa
+2015,December,Fall,PFN,vpd,Vapor Pressure Deficit(average for month),0.2,kpa
+2015,December,Fall,K69,vpd,Vapor Pressure Deficit(average for month),0.2,kpa
+2015,December,Fall,ERG,ws,Wind Speed(average for month),3.17,m/s
+2015,December,Fall,WH,ws,Wind Speed(average for month),3.07,m/s
+2015,December,Fall,K69,ws,Wind Speed(average for month),3.24,m/s
+2015,December,Fall,JUG,ws,Wind Speed(average for month),3.18,m/s
+2015,December,Fall,EY,ws,Wind Speed(average for month),3.13,m/s
+2015,December,Fall,PFN,ws,Wind Speed(average for month),3.24,m/s
+2015,February,Spring,EY,aet,Actual Evapotranspiration(monthly total),2.8,mm
+2015,February,Spring,K69,aet,Actual Evapotranspiration(monthly total),5.4,mm
+2015,February,Spring,WH,aet,Actual Evapotranspiration(monthly total),6.7,mm
+2015,February,Spring,PFN,aet,Actual Evapotranspiration(monthly total),5.4,mm
+2015,February,Spring,ERG,aet,Actual Evapotranspiration(monthly total),3,mm
+2015,February,Spring,JUG,aet,Actual Evapotranspiration(monthly total),6.2,mm
+2015,February,Spring,ERG,def,Climate Water Deficit(monthly total),0,mm
+2015,February,Spring,WH,def,Climate Water Deficit(monthly total),0,mm
+2015,February,Spring,JUG,def,Climate Water Deficit(monthly total),0,mm
+2015,February,Spring,EY,def,Climate Water Deficit(monthly total),0,mm
+2015,February,Spring,PFN,def,Climate Water Deficit(monthly total),0,mm
+2015,February,Spring,K69,def,Climate Water Deficit(monthly total),0,mm
+2015,February,Spring,PFN,PDSI,Palmer Drought Severity Index(at end of month),1.7,unitless
+2015,February,Spring,JUG,PDSI,Palmer Drought Severity Index(at end of month),1.75,unitless
+2015,February,Spring,EY,PDSI,Palmer Drought Severity Index(at end of month),1.66,unitless
+2015,February,Spring,WH,PDSI,Palmer Drought Severity Index(at end of month),1.78,unitless
+2015,February,Spring,K69,PDSI,Palmer Drought Severity Index(at end of month),1.7,unitless
+2015,February,Spring,ERG,PDSI,Palmer Drought Severity Index(at end of month),1.69,unitless
+2015,February,Spring,JUG,pet,Potential Evapotranspiration(monthly total),6.2,mm
+2015,February,Spring,EY,pet,Potential Evapotranspiration(monthly total),2.8,mm
+2015,February,Spring,WH,pet,Potential Evapotranspiration(monthly total),6.7,mm
+2015,February,Spring,ERG,pet,Potential Evapotranspiration(monthly total),3,mm
+2015,February,Spring,PFN,pet,Potential Evapotranspiration(monthly total),5.4,mm
+2015,February,Spring,K69,pet,Potential Evapotranspiration(monthly total),5.4,mm
+2015,February,Spring,PFN,ppt,Precipitation(monthly total),21.2,mm
+2015,February,Spring,ERG,ppt,Precipitation(monthly total),30.3,mm
+2015,February,Spring,WH,ppt,Precipitation(monthly total),24.3,mm
+2015,February,Spring,K69,ppt,Precipitation(monthly total),21.2,mm
+2015,February,Spring,EY,ppt,Precipitation(monthly total),31.7,mm
+2015,February,Spring,JUG,ppt,Precipitation(monthly total),20.1,mm
+2015,February,Spring,K69,q,Runoff(monthly total),8.7,mm
+2015,February,Spring,PFN,q,Runoff(monthly total),8.7,mm
+2015,February,Spring,WH,q,Runoff(monthly total),12.7,mm
+2015,February,Spring,JUG,q,Runoff(monthly total),8.3,mm
+2015,February,Spring,ERG,q,Runoff(monthly total),12,mm
+2015,February,Spring,EY,q,Runoff(monthly total),11.8,mm
+2015,February,Spring,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2015,February,Spring,WH,soil,Soil Moisture(total column - at end of month),61.4,mm
+2015,February,Spring,PFN,soil,Soil Moisture(total column - at end of month),61.8,mm
+2015,February,Spring,JUG,soil,Soil Moisture(total column - at end of month),61.2,mm
+2015,February,Spring,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2015,February,Spring,K69,soil,Soil Moisture(total column - at end of month),61.8,mm
+2015,February,Spring,EY,srad,Downward Surface Shortwave Radiation,78.90224776,W/m2
+2015,February,Spring,WH,srad,Downward Surface Shortwave Radiation,78.20132912,W/m2
+2015,February,Spring,JUG,srad,Downward Surface Shortwave Radiation,78.79629494,W/m2
+2015,February,Spring,K69,srad,Downward Surface Shortwave Radiation,78.90224776,W/m2
+2015,February,Spring,ERG,srad,Downward Surface Shortwave Radiation,78.60068974,W/m2
+2015,February,Spring,PFN,srad,Downward Surface Shortwave Radiation,78.90224776,W/m2
+2015,February,Spring,EY,swe,Snow Water Equivalent(at end of month),46.6,mm
+2015,February,Spring,K69,swe,Snow Water Equivalent(at end of month),18.4,mm
+2015,February,Spring,PFN,swe,Snow Water Equivalent(at end of month),18.4,mm
+2015,February,Spring,WH,swe,Snow Water Equivalent(at end of month),17.4,mm
+2015,February,Spring,JUG,swe,Snow Water Equivalent(at end of month),14.7,mm
+2015,February,Spring,ERG,swe,Snow Water Equivalent(at end of month),44.1,mm
+2015,February,Spring,WH,tmax,Max Temperature(average for month),4.19,C
+2015,February,Spring,JUG,tmax,Max Temperature(average for month),4.07,C
+2015,February,Spring,ERG,tmax,Max Temperature(average for month),3.47,C
+2015,February,Spring,EY,tmax,Max Temperature(average for month),3.44,C
+2015,February,Spring,K69,tmax,Max Temperature(average for month),3.91,C
+2015,February,Spring,PFN,tmax,Max Temperature(average for month),3.91,C
+2015,February,Spring,JUG,tmin,Min Temperature(average for month),-2.73,C
+2015,February,Spring,ERG,tmin,Min Temperature(average for month),-3.44,C
+2015,February,Spring,PFN,tmin,Min Temperature(average for month),-2.87,C
+2015,February,Spring,EY,tmin,Min Temperature(average for month),-3.55,C
+2015,February,Spring,K69,tmin,Min Temperature(average for month),-2.87,C
+2015,February,Spring,WH,tmin,Min Temperature(average for month),-2.65,C
+2015,February,Spring,PFN,vap,Vapor Pressure(average for month),0.515,kPa
+2015,February,Spring,EY,vap,Vapor Pressure(average for month),0.515,kPa
+2015,February,Spring,WH,vap,Vapor Pressure(average for month),0.527,kPa
+2015,February,Spring,K69,vap,Vapor Pressure(average for month),0.515,kPa
+2015,February,Spring,ERG,vap,Vapor Pressure(average for month),0.512,kPa
+2015,February,Spring,JUG,vap,Vapor Pressure(average for month),0.518,kPa
+2015,February,Spring,JUG,vpd,Vapor Pressure Deficit(average for month),0.14,kpa
+2015,February,Spring,WH,vpd,Vapor Pressure Deficit(average for month),0.14,kpa
+2015,February,Spring,EY,vpd,Vapor Pressure Deficit(average for month),0.11,kpa
+2015,February,Spring,ERG,vpd,Vapor Pressure Deficit(average for month),0.12,kpa
+2015,February,Spring,PFN,vpd,Vapor Pressure Deficit(average for month),0.14,kpa
+2015,February,Spring,K69,vpd,Vapor Pressure Deficit(average for month),0.14,kpa
+2015,February,Spring,PFN,ws,Wind Speed(average for month),2.17,m/s
+2015,February,Spring,K69,ws,Wind Speed(average for month),2.17,m/s
+2015,February,Spring,ERG,ws,Wind Speed(average for month),2.17,m/s
+2015,February,Spring,WH,ws,Wind Speed(average for month),2.04,m/s
+2015,February,Spring,JUG,ws,Wind Speed(average for month),2.09,m/s
+2015,February,Spring,EY,ws,Wind Speed(average for month),2.17,m/s
+2016,December,Fall,ERG,aet,Actual Evapotranspiration(monthly total),15.5,mm
+2016,December,Fall,EY,aet,Actual Evapotranspiration(monthly total),15.6,mm
+2016,December,Fall,JUG,aet,Actual Evapotranspiration(monthly total),17.2,mm
+2016,December,Fall,K69,aet,Actual Evapotranspiration(monthly total),17.2,mm
+2016,December,Fall,PFN,aet,Actual Evapotranspiration(monthly total),17.2,mm
+2016,December,Fall,WH,aet,Actual Evapotranspiration(monthly total),16.3,mm
+2016,December,Fall,JUG,def,Climate Water Deficit(monthly total),0,mm
+2016,December,Fall,EY,def,Climate Water Deficit(monthly total),0,mm
+2016,December,Fall,ERG,def,Climate Water Deficit(monthly total),0,mm
+2016,December,Fall,PFN,def,Climate Water Deficit(monthly total),0,mm
+2016,December,Fall,K69,def,Climate Water Deficit(monthly total),0,mm
+2016,December,Fall,WH,def,Climate Water Deficit(monthly total),0,mm
+2016,December,Fall,ERG,PDSI,Palmer Drought Severity Index(at end of month),-1.8,unitless
+2016,December,Fall,WH,PDSI,Palmer Drought Severity Index(at end of month),-1.6,unitless
+2016,December,Fall,EY,PDSI,Palmer Drought Severity Index(at end of month),-1.8,unitless
+2016,December,Fall,JUG,PDSI,Palmer Drought Severity Index(at end of month),-2.1,unitless
+2016,December,Fall,PFN,PDSI,Palmer Drought Severity Index(at end of month),-2.1,unitless
+2016,December,Fall,K69,PDSI,Palmer Drought Severity Index(at end of month),-2.1,unitless
+2016,December,Fall,JUG,pet,Potential Evapotranspiration(monthly total),17.2,mm
+2016,December,Fall,K69,pet,Potential Evapotranspiration(monthly total),17.2,mm
+2016,December,Fall,ERG,pet,Potential Evapotranspiration(monthly total),15.5,mm
+2016,December,Fall,WH,pet,Potential Evapotranspiration(monthly total),16.3,mm
+2016,December,Fall,PFN,pet,Potential Evapotranspiration(monthly total),17.2,mm
+2016,December,Fall,EY,pet,Potential Evapotranspiration(monthly total),15.6,mm
+2016,December,Fall,JUG,ppt,Precipitation(monthly total),53.9,mm
+2016,December,Fall,WH,ppt,Precipitation(monthly total),56,mm
+2016,December,Fall,EY,ppt,Precipitation(monthly total),62.9,mm
+2016,December,Fall,ERG,ppt,Precipitation(monthly total),63.2,mm
+2016,December,Fall,K69,ppt,Precipitation(monthly total),55.5,mm
+2016,December,Fall,PFN,ppt,Precipitation(monthly total),55.5,mm
+2016,December,Fall,WH,q,Runoff(monthly total),2.8,mm
+2016,December,Fall,JUG,q,Runoff(monthly total),2.7,mm
+2016,December,Fall,PFN,q,Runoff(monthly total),2.8,mm
+2016,December,Fall,K69,q,Runoff(monthly total),2.8,mm
+2016,December,Fall,EY,q,Runoff(monthly total),16.6,mm
+2016,December,Fall,ERG,q,Runoff(monthly total),16.1,mm
+2016,December,Fall,WH,soil,Soil Moisture(total column - at end of month),60.2,mm
+2016,December,Fall,K69,soil,Soil Moisture(total column - at end of month),58.4,mm
+2016,December,Fall,JUG,soil,Soil Moisture(total column - at end of month),55.1,mm
+2016,December,Fall,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2016,December,Fall,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2016,December,Fall,PFN,soil,Soil Moisture(total column - at end of month),58.4,mm
+2016,December,Fall,WH,srad,Downward Surface Shortwave Radiation,44.19926753,W/m2
+2016,December,Fall,ERG,srad,Downward Surface Shortwave Radiation,44.903026,W/m2
+2016,December,Fall,PFN,srad,Downward Surface Shortwave Radiation,44.49856711,W/m2
+2016,December,Fall,JUG,srad,Downward Surface Shortwave Radiation,44.19926753,W/m2
+2016,December,Fall,K69,srad,Downward Surface Shortwave Radiation,44.49856711,W/m2
+2016,December,Fall,EY,srad,Downward Surface Shortwave Radiation,45.09716627,W/m2
+2016,December,Fall,ERG,swe,Snow Water Equivalent(at end of month),0,mm
+2016,December,Fall,EY,swe,Snow Water Equivalent(at end of month),0,mm
+2016,December,Fall,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2016,December,Fall,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2016,December,Fall,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2016,December,Fall,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2016,December,Fall,ERG,tmax,Max Temperature(average for month),7.6,C
+2016,December,Fall,PFN,tmax,Max Temperature(average for month),8.2,C
+2016,December,Fall,EY,tmax,Max Temperature(average for month),7.7,C
+2016,December,Fall,WH,tmax,Max Temperature(average for month),8.1,C
+2016,December,Fall,JUG,tmax,Max Temperature(average for month),8.3,C
+2016,December,Fall,K69,tmax,Max Temperature(average for month),8.2,C
+2016,December,Fall,WH,tmin,Min Temperature(average for month),1.2,C
+2016,December,Fall,EY,tmin,Min Temperature(average for month),0.8,C
+2016,December,Fall,PFN,tmin,Min Temperature(average for month),1.1,C
+2016,December,Fall,K69,tmin,Min Temperature(average for month),1.1,C
+2016,December,Fall,ERG,tmin,Min Temperature(average for month),0.7,C
+2016,December,Fall,JUG,tmin,Min Temperature(average for month),1.3,C
+2016,December,Fall,WH,vap,Vapor Pressure(average for month),0.743,kPa
+2016,December,Fall,EY,vap,Vapor Pressure(average for month),0.733,kPa
+2016,December,Fall,ERG,vap,Vapor Pressure(average for month),0.729,kPa
+2016,December,Fall,JUG,vap,Vapor Pressure(average for month),0.738,kPa
+2016,December,Fall,K69,vap,Vapor Pressure(average for month),0.731,kPa
+2016,December,Fall,PFN,vap,Vapor Pressure(average for month),0.731,kPa
+2016,December,Fall,K69,vpd,Vapor Pressure Deficit(average for month),0.17,kpa
+2016,December,Fall,PFN,vpd,Vapor Pressure Deficit(average for month),0.17,kpa
+2016,December,Fall,ERG,vpd,Vapor Pressure Deficit(average for month),0.14,kpa
+2016,December,Fall,EY,vpd,Vapor Pressure Deficit(average for month),0.15,kpa
+2016,December,Fall,WH,vpd,Vapor Pressure Deficit(average for month),0.16,kpa
+2016,December,Fall,JUG,vpd,Vapor Pressure Deficit(average for month),0.17,kpa
+2016,December,Fall,WH,ws,Wind Speed(average for month),2.13,m/s
+2016,December,Fall,JUG,ws,Wind Speed(average for month),2.19,m/s
+2016,December,Fall,K69,ws,Wind Speed(average for month),2.25,m/s
+2016,December,Fall,PFN,ws,Wind Speed(average for month),2.25,m/s
+2016,December,Fall,EY,ws,Wind Speed(average for month),2.27,m/s
+2016,December,Fall,ERG,ws,Wind Speed(average for month),2.28,m/s
+2016,March,Spring,PFN,aet,Actual Evapotranspiration(monthly total),41.8,mm
+2016,March,Spring,WH,aet,Actual Evapotranspiration(monthly total),43.3,mm
+2016,March,Spring,K69,aet,Actual Evapotranspiration(monthly total),41.8,mm
+2016,March,Spring,EY,aet,Actual Evapotranspiration(monthly total),40.6,mm
+2016,March,Spring,JUG,aet,Actual Evapotranspiration(monthly total),41.4,mm
+2016,March,Spring,ERG,aet,Actual Evapotranspiration(monthly total),42.1,mm
+2016,March,Spring,PFN,def,Climate Water Deficit(monthly total),0.9,mm
+2016,March,Spring,K69,def,Climate Water Deficit(monthly total),0.9,mm
+2016,March,Spring,JUG,def,Climate Water Deficit(monthly total),1.8,mm
+2016,March,Spring,ERG,def,Climate Water Deficit(monthly total),0,mm
+2016,March,Spring,WH,def,Climate Water Deficit(monthly total),0.9,mm
+2016,March,Spring,EY,def,Climate Water Deficit(monthly total),0,mm
+2016,March,Spring,EY,PDSI,Palmer Drought Severity Index(at end of month),-3.1,unitless
+2016,March,Spring,K69,PDSI,Palmer Drought Severity Index(at end of month),-4.1,unitless
+2016,March,Spring,WH,PDSI,Palmer Drought Severity Index(at end of month),-3.8,unitless
+2016,March,Spring,PFN,PDSI,Palmer Drought Severity Index(at end of month),-4.1,unitless
+2016,March,Spring,ERG,PDSI,Palmer Drought Severity Index(at end of month),-3.2,unitless
+2016,March,Spring,JUG,PDSI,Palmer Drought Severity Index(at end of month),-4.2,unitless
+2016,March,Spring,EY,pet,Potential Evapotranspiration(monthly total),40.6,mm
+2016,March,Spring,PFN,pet,Potential Evapotranspiration(monthly total),42.7,mm
+2016,March,Spring,WH,pet,Potential Evapotranspiration(monthly total),44.2,mm
+2016,March,Spring,ERG,pet,Potential Evapotranspiration(monthly total),42.1,mm
+2016,March,Spring,K69,pet,Potential Evapotranspiration(monthly total),42.7,mm
+2016,March,Spring,JUG,pet,Potential Evapotranspiration(monthly total),43.2,mm
+2016,March,Spring,PFN,ppt,Precipitation(monthly total),41.9,mm
+2016,March,Spring,EY,ppt,Precipitation(monthly total),50.5,mm
+2016,March,Spring,JUG,ppt,Precipitation(monthly total),39.9,mm
+2016,March,Spring,ERG,ppt,Precipitation(monthly total),51.4,mm
+2016,March,Spring,WH,ppt,Precipitation(monthly total),43.6,mm
+2016,March,Spring,K69,ppt,Precipitation(monthly total),41.9,mm
+2016,March,Spring,PFN,q,Runoff(monthly total),2.1,mm
+2016,March,Spring,K69,q,Runoff(monthly total),2.1,mm
+2016,March,Spring,EY,q,Runoff(monthly total),12,mm
+2016,March,Spring,WH,q,Runoff(monthly total),2.2,mm
+2016,March,Spring,ERG,q,Runoff(monthly total),11.2,mm
+2016,March,Spring,JUG,q,Runoff(monthly total),2,mm
+2016,March,Spring,JUG,soil,Soil Moisture(total column - at end of month),58,mm
+2016,March,Spring,K69,soil,Soil Moisture(total column - at end of month),60.2,mm
+2016,March,Spring,WH,soil,Soil Moisture(total column - at end of month),59.8,mm
+2016,March,Spring,PFN,soil,Soil Moisture(total column - at end of month),60.2,mm
+2016,March,Spring,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2016,March,Spring,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2016,March,Spring,EY,srad,Downward Surface Shortwave Radiation,118.7005951,W/m2
+2016,March,Spring,PFN,srad,Downward Surface Shortwave Radiation,117.5033968,W/m2
+2016,March,Spring,K69,srad,Downward Surface Shortwave Radiation,117.5033968,W/m2
+2016,March,Spring,ERG,srad,Downward Surface Shortwave Radiation,118.101996,W/m2
+2016,March,Spring,WH,srad,Downward Surface Shortwave Radiation,117.0989379,W/m2
+2016,March,Spring,JUG,srad,Downward Surface Shortwave Radiation,117.0018678,W/m2
+2016,March,Spring,ERG,swe,Snow Water Equivalent(at end of month),0.1,mm
+2016,March,Spring,EY,swe,Snow Water Equivalent(at end of month),0.1,mm
+2016,March,Spring,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2016,March,Spring,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2016,March,Spring,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2016,March,Spring,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2016,March,Spring,WH,tmax,Max Temperature(average for month),9.4,C
+2016,March,Spring,PFN,tmax,Max Temperature(average for month),8.8,C
+2016,March,Spring,K69,tmax,Max Temperature(average for month),8.8,C
+2016,March,Spring,ERG,tmax,Max Temperature(average for month),8.6,C
+2016,March,Spring,EY,tmax,Max Temperature(average for month),8.4,C
+2016,March,Spring,JUG,tmax,Max Temperature(average for month),9.1,C
+2016,March,Spring,WH,tmin,Min Temperature(average for month),0.5,C
+2016,March,Spring,EY,tmin,Min Temperature(average for month),-0.4,C
+2016,March,Spring,ERG,tmin,Min Temperature(average for month),-0.3,C
+2016,March,Spring,K69,tmin,Min Temperature(average for month),0.2,C
+2016,March,Spring,PFN,tmin,Min Temperature(average for month),0.2,C
+2016,March,Spring,JUG,tmin,Min Temperature(average for month),0.4,C
+2016,March,Spring,ERG,vap,Vapor Pressure(average for month),0.594,kPa
+2016,March,Spring,K69,vap,Vapor Pressure(average for month),0.607,kPa
+2016,March,Spring,EY,vap,Vapor Pressure(average for month),0.602,kPa
+2016,March,Spring,JUG,vap,Vapor Pressure(average for month),0.614,kPa
+2016,March,Spring,WH,vap,Vapor Pressure(average for month),0.612,kPa
+2016,March,Spring,PFN,vap,Vapor Pressure(average for month),0.607,kPa
+2016,March,Spring,JUG,vpd,Vapor Pressure Deficit(average for month),0.23,kpa
+2016,March,Spring,PFN,vpd,Vapor Pressure Deficit(average for month),0.22,kpa
+2016,March,Spring,EY,vpd,Vapor Pressure Deficit(average for month),0.19,kpa
+2016,March,Spring,K69,vpd,Vapor Pressure Deficit(average for month),0.22,kpa
+2016,March,Spring,ERG,vpd,Vapor Pressure Deficit(average for month),0.21,kpa
+2016,March,Spring,WH,vpd,Vapor Pressure Deficit(average for month),0.24,kpa
+2016,March,Spring,PFN,ws,Wind Speed(average for month),2.82,m/s
+2016,March,Spring,JUG,ws,Wind Speed(average for month),2.76,m/s
+2016,March,Spring,K69,ws,Wind Speed(average for month),2.82,m/s
+2016,March,Spring,EY,ws,Wind Speed(average for month),2.84,m/s
+2016,March,Spring,WH,ws,Wind Speed(average for month),2.72,m/s
+2016,March,Spring,ERG,ws,Wind Speed(average for month),2.88,m/s
+2017,March,Spring,K69,aet,Actual Evapotranspiration(monthly total),55.1,mm
+2017,March,Spring,PFN,aet,Actual Evapotranspiration(monthly total),55.1,mm
+2017,March,Spring,WH,aet,Actual Evapotranspiration(monthly total),56.2,mm
+2017,March,Spring,JUG,aet,Actual Evapotranspiration(monthly total),54.7,mm
+2017,March,Spring,ERG,aet,Actual Evapotranspiration(monthly total),57.4,mm
+2017,March,Spring,EY,aet,Actual Evapotranspiration(monthly total),55.6,mm
+2017,March,Spring,EY,def,Climate Water Deficit(monthly total),0,mm
+2017,March,Spring,K69,def,Climate Water Deficit(monthly total),3.4,mm
+2017,March,Spring,WH,def,Climate Water Deficit(monthly total),3.3,mm
+2017,March,Spring,ERG,def,Climate Water Deficit(monthly total),0,mm
+2017,March,Spring,JUG,def,Climate Water Deficit(monthly total),4.4,mm
+2017,March,Spring,PFN,def,Climate Water Deficit(monthly total),3.4,mm
+2017,March,Spring,ERG,PDSI,Palmer Drought Severity Index(at end of month),-3.1,unitless
+2017,March,Spring,PFN,PDSI,Palmer Drought Severity Index(at end of month),-3.8,unitless
+2017,March,Spring,EY,PDSI,Palmer Drought Severity Index(at end of month),-3,unitless
+2017,March,Spring,WH,PDSI,Palmer Drought Severity Index(at end of month),-3.3,unitless
+2017,March,Spring,JUG,PDSI,Palmer Drought Severity Index(at end of month),-3.9,unitless
+2017,March,Spring,K69,PDSI,Palmer Drought Severity Index(at end of month),-3.8,unitless
+2017,March,Spring,WH,pet,Potential Evapotranspiration(monthly total),59.5,mm
+2017,March,Spring,PFN,pet,Potential Evapotranspiration(monthly total),58.5,mm
+2017,March,Spring,K69,pet,Potential Evapotranspiration(monthly total),58.5,mm
+2017,March,Spring,JUG,pet,Potential Evapotranspiration(monthly total),59.1,mm
+2017,March,Spring,EY,pet,Potential Evapotranspiration(monthly total),55.6,mm
+2017,March,Spring,ERG,pet,Potential Evapotranspiration(monthly total),57.4,mm
+2017,March,Spring,JUG,ppt,Precipitation(monthly total),49,mm
+2017,March,Spring,K69,ppt,Precipitation(monthly total),51.1,mm
+2017,March,Spring,ERG,ppt,Precipitation(monthly total),61.3,mm
+2017,March,Spring,PFN,ppt,Precipitation(monthly total),51.1,mm
+2017,March,Spring,EY,ppt,Precipitation(monthly total),60.8,mm
+2017,March,Spring,WH,ppt,Precipitation(monthly total),52.3,mm
+2017,March,Spring,PFN,q,Runoff(monthly total),2.6,mm
+2017,March,Spring,EY,q,Runoff(monthly total),7.6,mm
+2017,March,Spring,WH,q,Runoff(monthly total),2.7,mm
+2017,March,Spring,K69,q,Runoff(monthly total),2.6,mm
+2017,March,Spring,ERG,q,Runoff(monthly total),5.9,mm
+2017,March,Spring,JUG,q,Runoff(monthly total),2.5,mm
+2017,March,Spring,JUG,soil,Soil Moisture(total column - at end of month),53.7,mm
+2017,March,Spring,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2017,March,Spring,K69,soil,Soil Moisture(total column - at end of month),56,mm
+2017,March,Spring,PFN,soil,Soil Moisture(total column - at end of month),56,mm
+2017,March,Spring,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2017,March,Spring,WH,soil,Soil Moisture(total column - at end of month),55.7,mm
+2017,March,Spring,K69,srad,Downward Surface Shortwave Radiation,130.9008118,W/m2
+2017,March,Spring,PFN,srad,Downward Surface Shortwave Radiation,130.9008118,W/m2
+2017,March,Spring,JUG,srad,Downward Surface Shortwave Radiation,130.5009278,W/m2
+2017,March,Spring,ERG,srad,Downward Surface Shortwave Radiation,130.6967894,W/m2
+2017,March,Spring,EY,srad,Downward Surface Shortwave Radiation,130.9008118,W/m2
+2017,March,Spring,WH,srad,Downward Surface Shortwave Radiation,130.003113,W/m2
+2017,March,Spring,EY,swe,Snow Water Equivalent(at end of month),0,mm
+2017,March,Spring,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2017,March,Spring,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2017,March,Spring,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2017,March,Spring,ERG,swe,Snow Water Equivalent(at end of month),0,mm
+2017,March,Spring,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2017,March,Spring,WH,tmax,Max Temperature(average for month),14.1,C
+2017,March,Spring,EY,tmax,Max Temperature(average for month),13.2,C
+2017,March,Spring,JUG,tmax,Max Temperature(average for month),13.9,C
+2017,March,Spring,K69,tmax,Max Temperature(average for month),13.6,C
+2017,March,Spring,PFN,tmax,Max Temperature(average for month),13.6,C
+2017,March,Spring,ERG,tmax,Max Temperature(average for month),13.4,C
+2017,March,Spring,JUG,tmin,Min Temperature(average for month),3.3,C
+2017,March,Spring,WH,tmin,Min Temperature(average for month),3.4,C
+2017,March,Spring,PFN,tmin,Min Temperature(average for month),3.1,C
+2017,March,Spring,EY,tmin,Min Temperature(average for month),2.5,C
+2017,March,Spring,K69,tmin,Min Temperature(average for month),3.1,C
+2017,March,Spring,ERG,tmin,Min Temperature(average for month),2.6,C
+2017,March,Spring,PFN,vap,Vapor Pressure(average for month),0.724,kPa
+2017,March,Spring,JUG,vap,Vapor Pressure(average for month),0.731,kPa
+2017,March,Spring,ERG,vap,Vapor Pressure(average for month),0.714,kPa
+2017,March,Spring,EY,vap,Vapor Pressure(average for month),0.722,kPa
+2017,March,Spring,K69,vap,Vapor Pressure(average for month),0.724,kPa
+2017,March,Spring,WH,vap,Vapor Pressure(average for month),0.73,kPa
+2017,March,Spring,WH,vpd,Vapor Pressure Deficit(average for month),0.37,kpa
+2017,March,Spring,JUG,vpd,Vapor Pressure Deficit(average for month),0.36,kpa
+2017,March,Spring,EY,vpd,Vapor Pressure Deficit(average for month),0.31,kpa
+2017,March,Spring,PFN,vpd,Vapor Pressure Deficit(average for month),0.35,kpa
+2017,March,Spring,ERG,vpd,Vapor Pressure Deficit(average for month),0.33,kpa
+2017,March,Spring,K69,vpd,Vapor Pressure Deficit(average for month),0.35,kpa
+2017,March,Spring,K69,ws,Wind Speed(average for month),3.32,m/s
+2017,March,Spring,ERG,ws,Wind Speed(average for month),3.3,m/s
+2017,March,Spring,JUG,ws,Wind Speed(average for month),3.26,m/s
+2017,March,Spring,EY,ws,Wind Speed(average for month),3.24,m/s
+2017,March,Spring,WH,ws,Wind Speed(average for month),3.18,m/s
+2017,March,Spring,PFN,ws,Wind Speed(average for month),3.32,m/s
+2017,November,Fall,K69,aet,Actual Evapotranspiration(monthly total),22.2,mm
+2017,November,Fall,ERG,aet,Actual Evapotranspiration(monthly total),20.6,mm
+2017,November,Fall,WH,aet,Actual Evapotranspiration(monthly total),21.3,mm
+2017,November,Fall,EY,aet,Actual Evapotranspiration(monthly total),20.7,mm
+2017,November,Fall,JUG,aet,Actual Evapotranspiration(monthly total),22.2,mm
+2017,November,Fall,PFN,aet,Actual Evapotranspiration(monthly total),22.2,mm
+2017,November,Fall,K69,def,Climate Water Deficit(monthly total),0,mm
+2017,November,Fall,JUG,def,Climate Water Deficit(monthly total),0,mm
+2017,November,Fall,EY,def,Climate Water Deficit(monthly total),0,mm
+2017,November,Fall,ERG,def,Climate Water Deficit(monthly total),0,mm
+2017,November,Fall,PFN,def,Climate Water Deficit(monthly total),0,mm
+2017,November,Fall,WH,def,Climate Water Deficit(monthly total),0,mm
+2017,November,Fall,K69,PDSI,Palmer Drought Severity Index(at end of month),-3.1,unitless
+2017,November,Fall,WH,PDSI,Palmer Drought Severity Index(at end of month),-2.8,unitless
+2017,November,Fall,EY,PDSI,Palmer Drought Severity Index(at end of month),-2.6,unitless
+2017,November,Fall,JUG,PDSI,Palmer Drought Severity Index(at end of month),-3.1,unitless
+2017,November,Fall,PFN,PDSI,Palmer Drought Severity Index(at end of month),-3.1,unitless
+2017,November,Fall,ERG,PDSI,Palmer Drought Severity Index(at end of month),-2.7,unitless
+2017,November,Fall,JUG,pet,Potential Evapotranspiration(monthly total),22.2,mm
+2017,November,Fall,ERG,pet,Potential Evapotranspiration(monthly total),20.6,mm
+2017,November,Fall,PFN,pet,Potential Evapotranspiration(monthly total),22.2,mm
+2017,November,Fall,K69,pet,Potential Evapotranspiration(monthly total),22.2,mm
+2017,November,Fall,EY,pet,Potential Evapotranspiration(monthly total),20.7,mm
+2017,November,Fall,WH,pet,Potential Evapotranspiration(monthly total),21.3,mm
+2017,November,Fall,WH,ppt,Precipitation(monthly total),87.3,mm
+2017,November,Fall,PFN,ppt,Precipitation(monthly total),83.6,mm
+2017,November,Fall,EY,ppt,Precipitation(monthly total),101.5,mm
+2017,November,Fall,K69,ppt,Precipitation(monthly total),83.6,mm
+2017,November,Fall,ERG,ppt,Precipitation(monthly total),101.1,mm
+2017,November,Fall,JUG,ppt,Precipitation(monthly total),80.6,mm
+2017,November,Fall,WH,q,Runoff(monthly total),22.6,mm
+2017,November,Fall,PFN,q,Runoff(monthly total),19.7,mm
+2017,November,Fall,JUG,q,Runoff(monthly total),15.7,mm
+2017,November,Fall,K69,q,Runoff(monthly total),19.7,mm
+2017,November,Fall,ERG,q,Runoff(monthly total),43.3,mm
+2017,November,Fall,EY,q,Runoff(monthly total),45,mm
+2017,November,Fall,WH,soil,Soil Moisture(total column - at end of month),61.4,mm
+2017,November,Fall,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2017,November,Fall,JUG,soil,Soil Moisture(total column - at end of month),61.2,mm
+2017,November,Fall,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2017,November,Fall,PFN,soil,Soil Moisture(total column - at end of month),61.8,mm
+2017,November,Fall,K69,soil,Soil Moisture(total column - at end of month),61.8,mm
+2017,November,Fall,EY,srad,Downward Surface Shortwave Radiation,38.79691143,W/m2
+2017,November,Fall,ERG,srad,Downward Surface Shortwave Radiation,38.50311909,W/m2
+2017,November,Fall,JUG,srad,Downward Surface Shortwave Radiation,37.59725935,W/m2
+2017,November,Fall,PFN,srad,Downward Surface Shortwave Radiation,37.8992126,W/m2
+2017,November,Fall,WH,srad,Downward Surface Shortwave Radiation,37.70335103,W/m2
+2017,November,Fall,K69,srad,Downward Surface Shortwave Radiation,37.8992126,W/m2
+2017,November,Fall,ERG,swe,Snow Water Equivalent(at end of month),0.1,mm
+2017,November,Fall,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2017,November,Fall,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2017,November,Fall,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2017,November,Fall,EY,swe,Snow Water Equivalent(at end of month),0.1,mm
+2017,November,Fall,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2017,November,Fall,ERG,tmax,Max Temperature(average for month),7.1,C
+2017,November,Fall,WH,tmax,Max Temperature(average for month),7.5,C
+2017,November,Fall,JUG,tmax,Max Temperature(average for month),7.6,C
+2017,November,Fall,EY,tmax,Max Temperature(average for month),7.2,C
+2017,November,Fall,K69,tmax,Max Temperature(average for month),7.5,C
+2017,November,Fall,PFN,tmax,Max Temperature(average for month),7.5,C
+2017,November,Fall,K69,tmin,Min Temperature(average for month),1.2,C
+2017,November,Fall,WH,tmin,Min Temperature(average for month),1.3,C
+2017,November,Fall,PFN,tmin,Min Temperature(average for month),1.2,C
+2017,November,Fall,JUG,tmin,Min Temperature(average for month),1.4,C
+2017,November,Fall,EY,tmin,Min Temperature(average for month),0.9,C
+2017,November,Fall,ERG,tmin,Min Temperature(average for month),0.8,C
+2017,November,Fall,WH,vap,Vapor Pressure(average for month),0.693,kPa
+2017,November,Fall,K69,vap,Vapor Pressure(average for month),0.681,kPa
+2017,November,Fall,PFN,vap,Vapor Pressure(average for month),0.681,kPa
+2017,November,Fall,ERG,vap,Vapor Pressure(average for month),0.679,kPa
+2017,November,Fall,JUG,vap,Vapor Pressure(average for month),0.688,kPa
+2017,November,Fall,EY,vap,Vapor Pressure(average for month),0.683,kPa
+2017,November,Fall,K69,vpd,Vapor Pressure Deficit(average for month),0.17,kpa
+2017,November,Fall,PFN,vpd,Vapor Pressure Deficit(average for month),0.17,kpa
+2017,November,Fall,EY,vpd,Vapor Pressure Deficit(average for month),0.15,kpa
+2017,November,Fall,JUG,vpd,Vapor Pressure Deficit(average for month),0.18,kpa
+2017,November,Fall,ERG,vpd,Vapor Pressure Deficit(average for month),0.14,kpa
+2017,November,Fall,WH,vpd,Vapor Pressure Deficit(average for month),0.16,kpa
+2017,November,Fall,JUG,ws,Wind Speed(average for month),2.59,m/s
+2017,November,Fall,PFN,ws,Wind Speed(average for month),2.66,m/s
+2017,November,Fall,K69,ws,Wind Speed(average for month),2.66,m/s
+2017,November,Fall,WH,ws,Wind Speed(average for month),2.51,m/s
+2017,November,Fall,EY,ws,Wind Speed(average for month),2.63,m/s
+2017,November,Fall,ERG,ws,Wind Speed(average for month),2.65,m/s
+2018,April,Spring,ERG,aet,Actual Evapotranspiration(monthly total),37.4,mm
+2018,April,Spring,PFN,aet,Actual Evapotranspiration(monthly total),38.7,mm
+2018,April,Spring,JUG,aet,Actual Evapotranspiration(monthly total),39.4,mm
+2018,April,Spring,K69,aet,Actual Evapotranspiration(monthly total),38.7,mm
+2018,April,Spring,WH,aet,Actual Evapotranspiration(monthly total),39.9,mm
+2018,April,Spring,EY,aet,Actual Evapotranspiration(monthly total),35.5,mm
+2018,April,Spring,EY,def,Climate Water Deficit(monthly total),0,mm
+2018,April,Spring,PFN,def,Climate Water Deficit(monthly total),0,mm
+2018,April,Spring,ERG,def,Climate Water Deficit(monthly total),0,mm
+2018,April,Spring,K69,def,Climate Water Deficit(monthly total),0,mm
+2018,April,Spring,JUG,def,Climate Water Deficit(monthly total),0,mm
+2018,April,Spring,WH,def,Climate Water Deficit(monthly total),0,mm
+2018,April,Spring,WH,PDSI,Palmer Drought Severity Index(at end of month),-1.3,unitless
+2018,April,Spring,JUG,PDSI,Palmer Drought Severity Index(at end of month),-1.7,unitless
+2018,April,Spring,K69,PDSI,Palmer Drought Severity Index(at end of month),-1.6,unitless
+2018,April,Spring,PFN,PDSI,Palmer Drought Severity Index(at end of month),-1.6,unitless
+2018,April,Spring,EY,PDSI,Palmer Drought Severity Index(at end of month),0.7,unitless
+2018,April,Spring,ERG,PDSI,Palmer Drought Severity Index(at end of month),-1.1,unitless
+2018,April,Spring,WH,pet,Potential Evapotranspiration(monthly total),39.9,mm
+2018,April,Spring,K69,pet,Potential Evapotranspiration(monthly total),38.7,mm
+2018,April,Spring,ERG,pet,Potential Evapotranspiration(monthly total),37.4,mm
+2018,April,Spring,EY,pet,Potential Evapotranspiration(monthly total),35.5,mm
+2018,April,Spring,JUG,pet,Potential Evapotranspiration(monthly total),39.4,mm
+2018,April,Spring,PFN,pet,Potential Evapotranspiration(monthly total),38.7,mm
+2018,April,Spring,K69,ppt,Precipitation(monthly total),38.2,mm
+2018,April,Spring,ERG,ppt,Precipitation(monthly total),47.4,mm
+2018,April,Spring,EY,ppt,Precipitation(monthly total),46.9,mm
+2018,April,Spring,PFN,ppt,Precipitation(monthly total),38.2,mm
+2018,April,Spring,JUG,ppt,Precipitation(monthly total),36.3,mm
+2018,April,Spring,WH,ppt,Precipitation(monthly total),40,mm
+2018,April,Spring,ERG,q,Runoff(monthly total),45.7,mm
+2018,April,Spring,WH,q,Runoff(monthly total),26.9,mm
+2018,April,Spring,EY,q,Runoff(monthly total),48.4,mm
+2018,April,Spring,JUG,q,Runoff(monthly total),20,mm
+2018,April,Spring,K69,q,Runoff(monthly total),23.8,mm
+2018,April,Spring,PFN,q,Runoff(monthly total),23.8,mm
+2018,April,Spring,JUG,soil,Soil Moisture(total column - at end of month),61.2,mm
+2018,April,Spring,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2018,April,Spring,WH,soil,Soil Moisture(total column - at end of month),61.4,mm
+2018,April,Spring,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2018,April,Spring,K69,soil,Soil Moisture(total column - at end of month),61.8,mm
+2018,April,Spring,PFN,soil,Soil Moisture(total column - at end of month),61.8,mm
+2018,April,Spring,PFN,srad,Downward Surface Shortwave Radiation,119.5020601,W/m2
+2018,April,Spring,EY,srad,Downward Surface Shortwave Radiation,117.7032778,W/m2
+2018,April,Spring,WH,srad,Downward Surface Shortwave Radiation,117.8968687,W/m2
+2018,April,Spring,ERG,srad,Downward Surface Shortwave Radiation,117.8000732,W/m2
+2018,April,Spring,JUG,srad,Downward Surface Shortwave Radiation,119.0987457,W/m2
+2018,April,Spring,K69,srad,Downward Surface Shortwave Radiation,119.5020601,W/m2
+2018,April,Spring,EY,swe,Snow Water Equivalent(at end of month),1.8,mm
+2018,April,Spring,K69,swe,Snow Water Equivalent(at end of month),0.7,mm
+2018,April,Spring,WH,swe,Snow Water Equivalent(at end of month),0.5,mm
+2018,April,Spring,ERG,swe,Snow Water Equivalent(at end of month),1.4,mm
+2018,April,Spring,PFN,swe,Snow Water Equivalent(at end of month),0.7,mm
+2018,April,Spring,JUG,swe,Snow Water Equivalent(at end of month),0.5,mm
+2018,April,Spring,EY,tmax,Max Temperature(average for month),8,C
+2018,April,Spring,ERG,tmax,Max Temperature(average for month),8.2,C
+2018,April,Spring,PFN,tmax,Max Temperature(average for month),8.4,C
+2018,April,Spring,JUG,tmax,Max Temperature(average for month),8.7,C
+2018,April,Spring,WH,tmax,Max Temperature(average for month),9,C
+2018,April,Spring,K69,tmax,Max Temperature(average for month),8.4,C
+2018,April,Spring,JUG,tmin,Min Temperature(average for month),-0.1,C
+2018,April,Spring,ERG,tmin,Min Temperature(average for month),-0.9,C
+2018,April,Spring,PFN,tmin,Min Temperature(average for month),-0.4,C
+2018,April,Spring,K69,tmin,Min Temperature(average for month),-0.4,C
+2018,April,Spring,EY,tmin,Min Temperature(average for month),-1,C
+2018,April,Spring,WH,tmin,Min Temperature(average for month),-0.1,C
+2018,April,Spring,PFN,vap,Vapor Pressure(average for month),0.601,kPa
+2018,April,Spring,WH,vap,Vapor Pressure(average for month),0.607,kPa
+2018,April,Spring,EY,vap,Vapor Pressure(average for month),0.599,kPa
+2018,April,Spring,K69,vap,Vapor Pressure(average for month),0.601,kPa
+2018,April,Spring,ERG,vap,Vapor Pressure(average for month),0.59,kPa
+2018,April,Spring,JUG,vap,Vapor Pressure(average for month),0.607,kPa
+2018,April,Spring,EY,vpd,Vapor Pressure Deficit(average for month),0.23,kpa
+2018,April,Spring,JUG,vpd,Vapor Pressure Deficit(average for month),0.26,kpa
+2018,April,Spring,ERG,vpd,Vapor Pressure Deficit(average for month),0.25,kpa
+2018,April,Spring,K69,vpd,Vapor Pressure Deficit(average for month),0.25,kpa
+2018,April,Spring,WH,vpd,Vapor Pressure Deficit(average for month),0.28,kpa
+2018,April,Spring,PFN,vpd,Vapor Pressure Deficit(average for month),0.25,kpa
+2018,April,Spring,EY,ws,Wind Speed(average for month),3,m/s
+2018,April,Spring,WH,ws,Wind Speed(average for month),2.9,m/s
+2018,April,Spring,ERG,ws,Wind Speed(average for month),3.1,m/s
+2018,April,Spring,K69,ws,Wind Speed(average for month),3.1,m/s
+2018,April,Spring,PFN,ws,Wind Speed(average for month),3.1,m/s
+2018,April,Spring,JUG,ws,Wind Speed(average for month),3,m/s
+2018,November,Fall,PFN,aet,Actual Evapotranspiration(monthly total),17.2,mm
+2018,November,Fall,K69,aet,Actual Evapotranspiration(monthly total),17.2,mm
+2018,November,Fall,EY,aet,Actual Evapotranspiration(monthly total),20.6,mm
+2018,November,Fall,ERG,aet,Actual Evapotranspiration(monthly total),20.5,mm
+2018,November,Fall,WH,aet,Actual Evapotranspiration(monthly total),18.5,mm
+2018,November,Fall,JUG,aet,Actual Evapotranspiration(monthly total),16.4,mm
+2018,November,Fall,ERG,def,Climate Water Deficit(monthly total),0,mm
+2018,November,Fall,JUG,def,Climate Water Deficit(monthly total),5,mm
+2018,November,Fall,EY,def,Climate Water Deficit(monthly total),0,mm
+2018,November,Fall,WH,def,Climate Water Deficit(monthly total),2,mm
+2018,November,Fall,PFN,def,Climate Water Deficit(monthly total),4,mm
+2018,November,Fall,K69,def,Climate Water Deficit(monthly total),4,mm
+2018,November,Fall,EY,PDSI,Palmer Drought Severity Index(at end of month),-6.6,unitless
+2018,November,Fall,K69,PDSI,Palmer Drought Severity Index(at end of month),-7.5,unitless
+2018,November,Fall,PFN,PDSI,Palmer Drought Severity Index(at end of month),-7.5,unitless
+2018,November,Fall,WH,PDSI,Palmer Drought Severity Index(at end of month),-7.2,unitless
+2018,November,Fall,JUG,PDSI,Palmer Drought Severity Index(at end of month),-7.7,unitless
+2018,November,Fall,ERG,PDSI,Palmer Drought Severity Index(at end of month),-6.9,unitless
+2018,November,Fall,EY,pet,Potential Evapotranspiration(monthly total),20.6,mm
+2018,November,Fall,K69,pet,Potential Evapotranspiration(monthly total),21.2,mm
+2018,November,Fall,PFN,pet,Potential Evapotranspiration(monthly total),21.2,mm
+2018,November,Fall,WH,pet,Potential Evapotranspiration(monthly total),20.5,mm
+2018,November,Fall,ERG,pet,Potential Evapotranspiration(monthly total),20.5,mm
+2018,November,Fall,JUG,pet,Potential Evapotranspiration(monthly total),21.4,mm
+2018,November,Fall,JUG,ppt,Precipitation(monthly total),16.7,mm
+2018,November,Fall,PFN,ppt,Precipitation(monthly total),17.6,mm
+2018,November,Fall,ERG,ppt,Precipitation(monthly total),22.8,mm
+2018,November,Fall,EY,ppt,Precipitation(monthly total),22.8,mm
+2018,November,Fall,K69,ppt,Precipitation(monthly total),17.6,mm
+2018,November,Fall,WH,ppt,Precipitation(monthly total),19.2,mm
+2018,November,Fall,ERG,q,Runoff(monthly total),1.1,mm
+2018,November,Fall,WH,q,Runoff(monthly total),1,mm
+2018,November,Fall,JUG,q,Runoff(monthly total),0.8,mm
+2018,November,Fall,EY,q,Runoff(monthly total),1.1,mm
+2018,November,Fall,PFN,q,Runoff(monthly total),0.9,mm
+2018,November,Fall,K69,q,Runoff(monthly total),0.9,mm
+2018,November,Fall,EY,soil,Soil Moisture(total column - at end of month),7.3,mm
+2018,November,Fall,ERG,soil,Soil Moisture(total column - at end of month),7.5,mm
+2018,November,Fall,JUG,soil,Soil Moisture(total column - at end of month),6,mm
+2018,November,Fall,K69,soil,Soil Moisture(total column - at end of month),6.1,mm
+2018,November,Fall,PFN,soil,Soil Moisture(total column - at end of month),6.1,mm
+2018,November,Fall,WH,soil,Soil Moisture(total column - at end of month),6.3,mm
+2018,November,Fall,JUG,srad,Downward Surface Shortwave Radiation,57.80302142,W/m2
+2018,November,Fall,PFN,srad,Downward Surface Shortwave Radiation,58.10147409,W/m2
+2018,November,Fall,EY,srad,Downward Surface Shortwave Radiation,58.99683208,W/m2
+2018,November,Fall,ERG,srad,Downward Surface Shortwave Radiation,58.69837942,W/m2
+2018,November,Fall,WH,srad,Downward Surface Shortwave Radiation,57.89981688,W/m2
+2018,November,Fall,K69,srad,Downward Surface Shortwave Radiation,58.10147409,W/m2
+2018,November,Fall,EY,swe,Snow Water Equivalent(at end of month),0,mm
+2018,November,Fall,ERG,swe,Snow Water Equivalent(at end of month),0,mm
+2018,November,Fall,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2018,November,Fall,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2018,November,Fall,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2018,November,Fall,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2018,November,Fall,ERG,tmax,Max Temperature(average for month),9.1,C
+2018,November,Fall,PFN,tmax,Max Temperature(average for month),9.7,C
+2018,November,Fall,K69,tmax,Max Temperature(average for month),9.7,C
+2018,November,Fall,JUG,tmax,Max Temperature(average for month),9.8,C
+2018,November,Fall,EY,tmax,Max Temperature(average for month),9.2,C
+2018,November,Fall,WH,tmax,Max Temperature(average for month),9.7,C
+2018,November,Fall,K69,tmin,Min Temperature(average for month),2.3,C
+2018,November,Fall,WH,tmin,Min Temperature(average for month),2.4,C
+2018,November,Fall,JUG,tmin,Min Temperature(average for month),2.5,C
+2018,November,Fall,ERG,tmin,Min Temperature(average for month),1.9,C
+2018,November,Fall,PFN,tmin,Min Temperature(average for month),2.3,C
+2018,November,Fall,EY,tmin,Min Temperature(average for month),2,C
+2018,November,Fall,K69,vap,Vapor Pressure(average for month),0.691,kPa
+2018,November,Fall,ERG,vap,Vapor Pressure(average for month),0.689,kPa
+2018,November,Fall,EY,vap,Vapor Pressure(average for month),0.693,kPa
+2018,November,Fall,PFN,vap,Vapor Pressure(average for month),0.691,kPa
+2018,November,Fall,WH,vap,Vapor Pressure(average for month),0.703,kPa
+2018,November,Fall,JUG,vap,Vapor Pressure(average for month),0.698,kPa
+2018,November,Fall,PFN,vpd,Vapor Pressure Deficit(average for month),0.19,kpa
+2018,November,Fall,K69,vpd,Vapor Pressure Deficit(average for month),0.19,kpa
+2018,November,Fall,EY,vpd,Vapor Pressure Deficit(average for month),0.17,kpa
+2018,November,Fall,ERG,vpd,Vapor Pressure Deficit(average for month),0.16,kpa
+2018,November,Fall,WH,vpd,Vapor Pressure Deficit(average for month),0.18,kpa
+2018,November,Fall,JUG,vpd,Vapor Pressure Deficit(average for month),0.19,kpa
+2018,November,Fall,PFN,ws,Wind Speed(average for month),1.7,m/s
+2018,November,Fall,K69,ws,Wind Speed(average for month),1.7,m/s
+2018,November,Fall,ERG,ws,Wind Speed(average for month),1.8,m/s
+2018,November,Fall,EY,ws,Wind Speed(average for month),1.8,m/s
+2018,November,Fall,WH,ws,Wind Speed(average for month),1.6,m/s
+2018,November,Fall,JUG,ws,Wind Speed(average for month),1.7,m/s
+2019,March,Spring,EY,aet,Actual Evapotranspiration(monthly total),54.9,mm
+2019,March,Spring,WH,aet,Actual Evapotranspiration(monthly total),59.5,mm
+2019,March,Spring,PFN,aet,Actual Evapotranspiration(monthly total),57.1,mm
+2019,March,Spring,ERG,aet,Actual Evapotranspiration(monthly total),56.7,mm
+2019,March,Spring,K69,aet,Actual Evapotranspiration(monthly total),57.1,mm
+2019,March,Spring,JUG,aet,Actual Evapotranspiration(monthly total),56.8,mm
+2019,March,Spring,K69,def,Climate Water Deficit(monthly total),0,mm
+2019,March,Spring,JUG,def,Climate Water Deficit(monthly total),1.4,mm
+2019,March,Spring,WH,def,Climate Water Deficit(monthly total),0,mm
+2019,March,Spring,EY,def,Climate Water Deficit(monthly total),0,mm
+2019,March,Spring,ERG,def,Climate Water Deficit(monthly total),0,mm
+2019,March,Spring,PFN,def,Climate Water Deficit(monthly total),0,mm
+2019,March,Spring,WH,PDSI,Palmer Drought Severity Index(at end of month),-6.2,unitless
+2019,March,Spring,ERG,PDSI,Palmer Drought Severity Index(at end of month),-5.9,unitless
+2019,March,Spring,PFN,PDSI,Palmer Drought Severity Index(at end of month),-6.4,unitless
+2019,March,Spring,EY,PDSI,Palmer Drought Severity Index(at end of month),-5.8,unitless
+2019,March,Spring,K69,PDSI,Palmer Drought Severity Index(at end of month),-6.4,unitless
+2019,March,Spring,JUG,PDSI,Palmer Drought Severity Index(at end of month),-6.5,unitless
+2019,March,Spring,K69,pet,Potential Evapotranspiration(monthly total),57.1,mm
+2019,March,Spring,EY,pet,Potential Evapotranspiration(monthly total),54.9,mm
+2019,March,Spring,PFN,pet,Potential Evapotranspiration(monthly total),57.1,mm
+2019,March,Spring,WH,pet,Potential Evapotranspiration(monthly total),59.5,mm
+2019,March,Spring,ERG,pet,Potential Evapotranspiration(monthly total),56.7,mm
+2019,March,Spring,JUG,pet,Potential Evapotranspiration(monthly total),58.2,mm
+2019,March,Spring,EY,ppt,Precipitation(monthly total),74.3,mm
+2019,March,Spring,WH,ppt,Precipitation(monthly total),63.9,mm
+2019,March,Spring,K69,ppt,Precipitation(monthly total),59.9,mm
+2019,March,Spring,PFN,ppt,Precipitation(monthly total),59.9,mm
+2019,March,Spring,JUG,ppt,Precipitation(monthly total),56.7,mm
+2019,March,Spring,ERG,ppt,Precipitation(monthly total),76.2,mm
+2019,March,Spring,JUG,q,Runoff(monthly total),2.9,mm
+2019,March,Spring,ERG,q,Runoff(monthly total),20.9,mm
+2019,March,Spring,PFN,q,Runoff(monthly total),3.4,mm
+2019,March,Spring,EY,q,Runoff(monthly total),21.1,mm
+2019,March,Spring,K69,q,Runoff(monthly total),3.4,mm
+2019,March,Spring,WH,q,Runoff(monthly total),4.8,mm
+2019,March,Spring,EY,soil,Soil Moisture(total column - at end of month),58.5,mm
+2019,March,Spring,ERG,soil,Soil Moisture(total column - at end of month),59.8,mm
+2019,March,Spring,WH,soil,Soil Moisture(total column - at end of month),61.4,mm
+2019,March,Spring,K69,soil,Soil Moisture(total column - at end of month),61.8,mm
+2019,March,Spring,PFN,soil,Soil Moisture(total column - at end of month),61.8,mm
+2019,March,Spring,JUG,soil,Soil Moisture(total column - at end of month),58.8,mm
+2019,March,Spring,WH,srad,Downward Surface Shortwave Radiation,126.6027651,W/m2
+2019,March,Spring,K69,srad,Downward Surface Shortwave Radiation,128.4032595,W/m2
+2019,March,Spring,PFN,srad,Downward Surface Shortwave Radiation,128.4032595,W/m2
+2019,March,Spring,EY,srad,Downward Surface Shortwave Radiation,126.4987365,W/m2
+2019,March,Spring,ERG,srad,Downward Surface Shortwave Radiation,126.6987914,W/m2
+2019,March,Spring,JUG,srad,Downward Surface Shortwave Radiation,128.099176,W/m2
+2019,March,Spring,ERG,swe,Snow Water Equivalent(at end of month),0,mm
+2019,March,Spring,PFN,swe,Snow Water Equivalent(at end of month),0,mm
+2019,March,Spring,EY,swe,Snow Water Equivalent(at end of month),0,mm
+2019,March,Spring,JUG,swe,Snow Water Equivalent(at end of month),0,mm
+2019,March,Spring,K69,swe,Snow Water Equivalent(at end of month),0,mm
+2019,March,Spring,WH,swe,Snow Water Equivalent(at end of month),0,mm
+2019,March,Spring,ERG,tmax,Max Temperature(average for month),11.7,C
+2019,March,Spring,K69,tmax,Max Temperature(average for month),11.8,C
+2019,March,Spring,WH,tmax,Max Temperature(average for month),12.4,C
+2019,March,Spring,PFN,tmax,Max Temperature(average for month),11.8,C
+2019,March,Spring,EY,tmax,Max Temperature(average for month),11.5,C
+2019,March,Spring,JUG,tmax,Max Temperature(average for month),12.1,C
+2019,March,Spring,PFN,tmin,Min Temperature(average for month),3.1,C
+2019,March,Spring,ERG,tmin,Min Temperature(average for month),2.7,C
+2019,March,Spring,EY,tmin,Min Temperature(average for month),2.6,C
+2019,March,Spring,K69,tmin,Min Temperature(average for month),3.1,C
+2019,March,Spring,JUG,tmin,Min Temperature(average for month),3.3,C
+2019,March,Spring,WH,tmin,Min Temperature(average for month),3.5,C
+2019,March,Spring,WH,vap,Vapor Pressure(average for month),0.709,kPa
+2019,March,Spring,ERG,vap,Vapor Pressure(average for month),0.691,kPa
+2019,March,Spring,EY,vap,Vapor Pressure(average for month),0.699,kPa
+2019,March,Spring,PFN,vap,Vapor Pressure(average for month),0.704,kPa
+2019,March,Spring,K69,vap,Vapor Pressure(average for month),0.704,kPa
+2019,March,Spring,JUG,vap,Vapor Pressure(average for month),0.71,kPa
+2019,March,Spring,EY,vpd,Vapor Pressure Deficit(average for month),0.35,kpa
+2019,March,Spring,JUG,vpd,Vapor Pressure Deficit(average for month),0.39,kpa
+2019,March,Spring,WH,vpd,Vapor Pressure Deficit(average for month),0.41,kpa
+2019,March,Spring,ERG,vpd,Vapor Pressure Deficit(average for month),0.37,kpa
+2019,March,Spring,PFN,vpd,Vapor Pressure Deficit(average for month),0.37,kpa
+2019,March,Spring,K69,vpd,Vapor Pressure Deficit(average for month),0.37,kpa
+2019,March,Spring,EY,ws,Wind Speed(average for month),4.1,m/s
+2019,March,Spring,JUG,ws,Wind Speed(average for month),4.1,m/s
+2019,March,Spring,ERG,ws,Wind Speed(average for month),4.1,m/s
+2019,March,Spring,WH,ws,Wind Speed(average for month),4,m/s
+2019,March,Spring,K69,ws,Wind Speed(average for month),4.1,m/s
+2019,March,Spring,PFN,ws,Wind Speed(average for month),4.1,m/s
